@@ -20,14 +20,14 @@ Gör det här bara första gången du ansluter till Ripple.
 
 ### Hur man spelar på Ripple
 - Kör bytaren **som administratör**  
-- Se till att **Ripple IP** är **163.172.71.251** och **Mirror IP** är **37.187.125.67**. Om inte, klicka på  **Update IP** för att få de rätta IP-addresserna.
-- Make sure that the switcher says **"You are playing on Ripple server 163.172.71.251 - 37.187.125.67"** (it should look like [this](https://b.catgirlsare.sexy/xqJw.png)), if not, click **"On/Off"** to switch server.  
-- Open osu! and login with your ripple account  
-- Enjoy  
+- Se till att **Ripple IP** är **163.172.71.251** och **Mirror IP** är **37.187.125.67**. Om de är fel, klicka på  **Update IP** för att få de rätta IP-addresserna.
+- Se till att bytaren säger **"You are playing on Ripple server 163.172.71.251 - 37.187.125.67"** (det ska se ut som det [här](https://b.catgirlsare.sexy/xqJw.png)), om det inte säger så, klicka **"On/Off"** för att byta serverar.  
+- Öppna osu! och logga in med ditt Ripple konto  
+- Njut  
 
-### How to play on official osu! again
-- Make sure osu! is **closed**  
-- Open the switcher and make sure it says **"You are playing on osu! server"** (it should look like [this](https://b.catgirlsare.sexy/c_lb.png)), if not, click **"On/off"** to switch server.
+### Hur man spelar på officiella osu! igen
+- Se till att osu! är **stängt**  
+- Öppna bytaren och se till att den säger **"You are playing on osu! server"** (det ska se ut som det [här](https://b.catgirlsare.sexy/c_lb.png)), om det inte säger så, klicka **"On/Off"** för att byta serverar.
 - Open osu! and login with your osu! account  
 _NOTE:_ If you want to connect to osu.ppy.sh and you still see ripple's website even if the switcher is off, empty your browser cache.
 
