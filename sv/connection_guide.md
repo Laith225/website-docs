@@ -2,25 +2,25 @@
 title: "How to connect to Ripple"
 reference_version: 0992943749e7fb7c8a62ab99d89f495a
 ---
-- [Register](http://ripple.moe/index.php?p=3) an account  
-- Download [ripple server switcher](https://mu.nyodev.xyz/upd.php?id=18)
-- **Extract rss.exe** somewhere (eg: on your desktop)  
-- **Turn off your antivirus** (some antiviruses might cause some issues)  
+- [Registera](http://ripple.moe/index.php?p=3) ett konto  
+- Ladda ned [ripples server bytare](https://mu.nyodev.xyz/upd.php?id=18)
+- **Extrahera rss.exe** någonstans (t.ex: på ditt skrivbord)  
+- **Stäng av ditt antivirus** (några antivirus kan skapa problem)  
 
 
-### Certificate installation
-If you want to play on ripple with **stable/beta/cutting edge**, you must install our HTTPS certificate.  
-Do this only the first time you connect to Ripple.  
+### Certifikatsinstallation
+Om du vill spela ripple på **stable/beta/cutting edge**, måste du installera vårt HTTPS certifikat.
+Gör det här bara första gången du ansluter till Ripple.
 
-- Open the switcher  
-- Click on **"Install certificate"**  
-- Click **"Yes"**  
+- Öppna bytaren
+- Klicka på **"Install certificate"**  
+- Klicka **"Yes"**  
 
-*If you can't install the certificate properly, follow [these instructions](https://ripple.moe/index.php?p=16&id=12) to install it manually.*
+*Om du inte kan installera certifikatet ordenligt, följ [dessa instruktioner](https://ripple.moe/index.php?p=16&id=12) för att installera det manuellt.
 
-### How to play on Ripple
-- Run the switcher **as administrator**  
-- Make sure **Ripple IP** is **163.172.71.251** and **Mirror IP** is **37.187.125.67**. If not, click **Update IP** to get the right IPs.
+### Hur man spelar på Ripple
+- Kör bytaren **som administratör**  
+- Se till att **Ripple IP** är **163.172.71.251** och **Mirror IP** är **37.187.125.67**. Om inte, klicka på  **Update IP** för att få de rätta IP-addresserna.
 - Make sure that the switcher says **"You are playing on Ripple server 163.172.71.251 - 37.187.125.67"** (it should look like [this](https://b.catgirlsare.sexy/xqJw.png)), if not, click **"On/Off"** to switch server.  
 - Open osu! and login with your ripple account  
 - Enjoy  
